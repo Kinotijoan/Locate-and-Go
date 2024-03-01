@@ -1,2 +1,2 @@
 # Locate-and-Go
-A Moving Services system Web application
+A Moving Services Web application
